@@ -2,3 +2,7 @@ node_modules
 .idea/
 node-xmlrpc.iml
 package-lock.json
+
+site.config
+*.env
+*.env.*
